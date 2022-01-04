@@ -1,0 +1,18 @@
+Course,Section,Title,NStudents,NSeats,Instructor,Year
+CSC2650,S1,Object Oriented Programming,30,15,Peacock,2020
+CSC3610,S1,Data Structures,25,5,Green,2021
+CSC3610,S2,Data Structures,30,3,White,2020
+CSC1700,S2,Intro to Programming,30,20,White,2020
+CSC1700,S3,Intro to Programming,35,24,White,2021
+CSC1010,S1,Intro to Computer Science,25,20,White,2021
+CSC4350,S1,Software Engineering,30,22,White,2020
+CSC4350,S2,Software Engineering,30,24,Plum,2021
+CSC4350,S3,Software Engineering,50,50,Peacock,2019
+CSC1700,S1,Intro to Programming,30,25,Plum,2020
+CSC1700,S1,Intro to Programming,30,10,White,2019
+CSC1700,S4,Intro to Programming,30,5,White,2018
+CSC1700,S2,Intro to Programming,30,25,White,2017
+CSC1010,S1,Intro to Computer Science,25,20,Green,2019
+CSC1010,S2,Intro to Computer Science,25,20,Green,2020
+CSC1010,S1,Intro to Computer Science,25,20,White,2018
+CSC4500,S2,Intro to Databases,25,20,Green,2021
